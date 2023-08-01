@@ -1,3 +1,3 @@
 # RobotBiologicalTest
 
-estudo padrão commend - Designer Pattners
+estudo padrão command - Designer Pattners
